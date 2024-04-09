@@ -1,0 +1,4 @@
+name: plugin-sandbox
+version: '${version}'
+main: com.colorfulred.play.pluginsandbox.Plugin_sandbox
+api-version: '1.20'
